@@ -1,0 +1,629 @@
+{"timestamp": "2026-07-07T08:27:17.395824", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T08:27:17.396806", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T08:39:32.624378", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T08:39:32.624378", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T08:39:58.878673", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T08:39:58.879735", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T08:40:17.984640", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T08:40:17.984640", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T08:40:29.204185", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T08:40:29.205209", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T08:40:34.076825", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T08:40:34.076825", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T08:41:06.132904", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T08:41:06.133897", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T08:54:46.284437", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T08:54:46.284437", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T08:54:48.342893", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T08:54:48.343913", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:04:15.702177", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:04:15.703178", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:04:17.637223", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:04:17.638209", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:06:36.833276", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:06:36.833276", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:06:39.338703", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:06:39.339717", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:17:44.506701", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:17:44.506701", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:17:46.942249", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:17:46.944231", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:18:11.986755", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:18:11.987660", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:18:14.256035", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:18:14.257041", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:22:29.310397", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:22:29.310397", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:22:31.444940", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:22:31.445942", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:22:45.192417", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:22:45.192417", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:22:51.442450", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:22:51.448451", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:23:48.820314", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:23:48.820314", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:23:51.737317", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:23:51.738317", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:23:54.445696", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:23:54.446695", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:23:56.641822", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:23:56.653825", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:23:59.356986", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:23:59.356986", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:24:02.293370", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:24:02.294379", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:24:26.644779", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:24:26.644779", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:24:28.648741", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:24:28.649745", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:25:33.665953", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:25:33.665953", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:25:35.384891", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:25:35.387866", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:25:38.920677", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:25:38.920677", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:25:43.876658", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:25:43.878657", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:25:48.880259", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:25:48.880259", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:25:51.037267", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:25:51.038858", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:26:16.055726", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:26:16.055726", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:26:17.799772", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:26:17.800775", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:30:47.204907", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:30:47.204907", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:30:50.182904", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:30:50.183905", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:31:00.204984", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:31:00.204984", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:31:04.748255", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:31:04.749270", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:31:08.907639", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:31:08.907639", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:31:11.168057", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:31:11.169054", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-07T09:31:14.023863", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-07T09:31:14.023863", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-07T09:31:16.313817", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-07T09:31:16.314819", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T05:24:05.235795", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T05:24:05.237801", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T05:37:45.451394", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T05:37:45.451394", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T05:37:54.184453", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T05:37:54.186453", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T10:38:04.710640", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T10:38:04.735863", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T10:40:49.222411", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T10:40:49.222411", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T10:40:54.506276", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T10:40:54.508277", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T10:40:57.985182", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T10:40:57.985182", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T10:41:24.029620", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T10:41:24.030635", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T10:42:24.047931", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T10:42:24.048927", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T10:42:26.371952", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T10:42:26.372952", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T10:43:13.991674", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T10:43:13.991674", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T10:43:15.947070", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T10:43:15.949076", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:35:34.559199", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:35:34.560198", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:37:39.590977", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:37:39.590977", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:37:41.724834", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:37:41.726835", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:37:45.909697", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:37:45.909697", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:37:49.098707", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:37:49.099702", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:41:04.156271", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:41:04.156271", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:41:06.084917", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:41:06.086898", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:49:15.353768", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:49:15.353768", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:49:22.573548", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:49:22.574548", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:49:24.898959", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:49:24.898959", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:49:28.408368", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:49:28.409366", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:50:58.433834", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:50:58.433834", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:51:00.649000", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:51:00.650007", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:51:04.372719", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:51:04.372719", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:51:06.474037", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:51:06.475036", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:52:16.491081", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:52:16.491081", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:52:18.741449", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:52:18.742255", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:52:28.644171", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:52:28.644171", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:52:30.537399", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:52:30.538401", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:54:10.359066", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:54:10.359066", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:54:12.666681", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:54:12.667679", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:54:36.525986", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:54:36.525986", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:54:38.675699", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:54:38.787225", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:56:32.426804", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:56:32.426804", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:57:27.612809", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:57:27.613848", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:57:31.782034", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:57:31.782034", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:57:35.722950", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:57:35.723986", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T11:57:45.102312", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T11:57:45.102312", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T11:57:47.431843", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T11:57:47.433865", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-08T12:08:41.843136", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-08T12:08:41.843136", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-08T12:08:44.562321", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-08T12:08:44.563319", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:12:12.978068", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:12:12.997068", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:13:34.998365", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:13:35.000365", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:20:18.375798", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:20:18.376776", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:20:20.529202", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:20:20.530199", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:32:10.732201", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:32:10.734216", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:32:14.044267", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:32:14.046268", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:36:18.661496", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:36:18.661496", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:36:20.767926", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:36:20.768873", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:43:40.893836", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:43:40.893836", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:43:43.435756", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:43:43.436755", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:57:53.360252", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:57:53.360252", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:57:55.319989", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:57:55.320986", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:58:15.327017", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:58:15.327017", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:58:17.527497", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:58:17.528497", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-09T06:58:19.789091", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-09T06:58:19.789091", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-09T06:58:21.824089", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-09T06:58:21.826088", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T08:04:39.747505", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T08:04:39.749534", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T08:53:18.820218", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T08:53:18.822219", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T08:53:21.154276", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T08:53:21.155298", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T08:54:20.591266", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T08:54:20.591266", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T08:54:22.677802", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T08:54:22.679802", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T09:01:15.105435", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T09:01:15.105435", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T09:01:17.901092", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T09:01:17.903092", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T19:04:43.453798", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T19:04:43.455800", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:16:44.697491", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:16:44.700490", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:16:48.288512", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:16:48.289507", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:20:31.429901", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:20:31.429901", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:20:33.922356", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:20:33.923356", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:29:34.120916", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:29:34.120916", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:29:38.494456", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:29:38.495453", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:31:22.993986", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:31:22.993986", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:31:25.549906", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:31:25.553906", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:39:08.166196", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:39:08.166196", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:39:11.027203", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:39:11.028225", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:39:16.033948", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:39:16.033948", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:39:18.190944", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:39:18.192947", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:39:30.495591", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:39:30.495591", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:39:32.626505", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:39:32.628501", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:40:42.644986", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:40:42.644986", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:40:44.486415", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:40:44.487417", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:40:47.434800", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:40:47.434800", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:40:51.620795", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:40:51.621801", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:45:21.711403", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:45:21.711403", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:45:24.552404", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:45:24.553403", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:52:29.270922", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:52:29.270922", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:52:32.769456", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:52:32.771460", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:52:35.197985", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:52:35.197985", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:52:39.674980", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:52:39.676979", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:52:43.037978", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:52:43.037978", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T20:52:45.615981", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T20:52:45.616980", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T20:55:24.162866", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T20:55:24.162866", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:02:38.692293", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:02:38.694293", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:02:48.434531", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:02:48.435537", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:02:51.142902", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:02:51.143903", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:02:53.285393", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:02:53.285393", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:02:58.207729", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:02:58.209732", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:03:23.219188", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:03:23.223187", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:07:05.898158", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:07:05.898158", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:07:09.851260", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:09.886260", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:24.889791", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:07:24.889791", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:07:27.656793", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:27.657794", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:41.073724", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:07:41.074726", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:07:45.925245", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:45.941246", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:50.942829", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:07:50.943786", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:07:52.954059", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:52.955056", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:07:57.956731", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:07:57.957735", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:08:01.541255", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:01.542265", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:05.311559", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:08:05.311559", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:08:14.340113", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:14.342112", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:17.756918", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:08:17.757899", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:08:28.707952", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:28.708956", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:32.562587", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:08:32.562587", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:08:34.588895", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:34.589893", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:42.977010", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:08:42.977010", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:08:46.627019", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:46.629014", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:53.800390", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:08:53.800390", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:08:55.394599", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:08:55.395602", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:09:00.398324", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:09:00.398324", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:09:03.960766", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:09:03.961763", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:09:08.964987", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:09:08.965986", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:09:10.841676", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:09:10.842675", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:09:40.865075", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:09:40.866106", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:11:08.881521", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:11:08.881521", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:11:11.587561", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:11:11.589562", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:11:26.594021", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:11:26.596017", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:11:39.590105", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:11:39.590105", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:11:41.285617", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:11:41.286622", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:11:51.290907", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:11:51.292905", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:12:01.296466", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:12:01.296466", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:12:03.410529", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:12:03.411530", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:12:07.409872", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:12:07.409872", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:12:09.751622", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:12:09.752623", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:12:29.799873", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:12:29.799873", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:13:59.840439", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:13:59.841441", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:15:27.198428", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:15:27.198428", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:15:30.616958", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:30.620956", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:35.628780", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:15:35.629779", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:15:40.461315", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:40.462298", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:45.466541", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:15:45.466541", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:15:47.239994", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:47.240994", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:52.243431", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:15:52.244343", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:15:53.869074", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:15:53.871073", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:16:08.873903", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:16:08.874887", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:17:11.328253", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:17:11.328253", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:17:13.669427", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:13.671426", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:18.674732", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:17:18.674732", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:17:24.128806", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:24.130790", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:27.588186", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:17:27.588186", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:17:33.145756", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:33.146755", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:36.217479", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:17:36.217479", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:17:41.163658", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:17:41.165660", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:18:06.171022", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:18:06.172023", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:19:55.795703", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:19:55.795703", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:19:57.583138", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:19:57.584136", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:20:02.587890", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:20:02.587890", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:20:04.406059", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:20:04.407054", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:20:12.387281", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:20:12.387281", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:20:14.572886", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:20:14.573886", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:20:44.612313", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:20:44.612313", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:20:48.671313", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:20:48.673315", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:29:08.871099", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:29:08.871099", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:29:11.173094", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:29:11.175093", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:29:20.570590", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:29:20.570590", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:29:22.395507", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:29:22.397512", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:36:52.508333", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:36:52.511369", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:37:50.952296", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:37:50.952296", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:37:52.677264", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:37:52.678262", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:38:07.682780", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:38:07.685781", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:38:22.724059", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:38:22.724059", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:38:24.524059", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:38:24.526059", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:38:34.532137", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:38:34.533167", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:38:49.536115", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:38:49.536115", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:38:51.498121", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:38:51.499114", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:01.504243", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:39:01.504243", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:39:05.196235", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:05.197241", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:12.876171", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:39:12.876171", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:39:15.071175", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:15.072174", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:25.074473", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:39:25.075501", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:39:30.077301", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:39:30.077301", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:39:32.108310", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:32.110288", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:39:47.114445", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:39:47.115446", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:43:12.158693", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:43:12.158693", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:43:14.163680", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:43:14.164681", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:43:19.167427", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:43:19.167427", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:43:22.036411", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:43:22.038400", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:43:25.007078", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:43:25.007078", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:43:26.827121", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:43:26.829125", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:09.047402", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:45:09.047402", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:45:10.762924", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:10.763925", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:17.793543", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:45:17.793543", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:45:19.435443", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:19.436460", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:24.438343", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:45:24.439335", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:45:30.865326", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:30.867328", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:33.461329", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:45:33.461329", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:45:36.946326", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:36.947327", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:39.329112", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:45:39.329112", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:45:43.178110", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:43.181112", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:46.350039", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:45:46.351040", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:45:48.063029", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:45:48.065029", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:46:11.873754", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:46:11.873754", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:46:14.345736", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:46:14.352740", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:46:39.357994", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:46:39.359992", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:46:49.362425", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:46:49.362425", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:46:51.548385", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:46:51.550380", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:46:54.438020", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:46:54.438020", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:46:57.827179", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:46:57.828192", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:47:12.832229", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:47:12.833227", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:47:25.401994", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:47:25.401994", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:47:28.692862", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:47:28.693860", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:47:31.960417", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:47:31.960417", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:47:35.273155", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:47:35.310153", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:47:45.312604", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:47:45.313575", "event": "Reload Failed", "details": {"dataset": "backend_test", "model": "Random Forest", "error": "No production model available."}}
+{"timestamp": "2026-07-21T21:49:38.717641", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:49:38.717641", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:50:24.465179", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:50:24.466182", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:51:59.517907", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-21T21:51:59.517907", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-21T21:52:01.527848", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-21T21:52:01.528869", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-21T21:52:41.541646", "event": "Registry Changed", "details": {}}
+{"timestamp": "2026-07-21T21:52:43.707569", "event": "Model Reloaded", "details": {"dataset": "backend_test", "model": "Random Forest"}}
+{"timestamp": "2026-07-22T11:18:58.215426", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:18:58.305431", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T11:22:26.472316", "client_ip": "127.0.0.1", "endpoint": "/predict", "dataset": "backend_test", "model": "Random Forest", "status": "FAILED", "error": "columns are missing: {'feature_2', 'feature_1'}"}
+{"timestamp": "2026-07-22T11:31:17.131435", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T11:31:17.131435", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-22T11:31:30.282961", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:31:30.284897", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T11:31:47.804534", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T11:31:47.804534", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-22T11:31:49.709600", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:31:49.710624", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T11:32:04.713240", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T11:32:04.713240", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-22T11:32:06.621354", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:32:06.622352", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T11:32:21.626296", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T11:32:21.626296", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-22T11:32:23.794897", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:32:23.795898", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T11:53:47.482030", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T11:53:47.482030", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-22T11:53:49.620379", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:53:49.621363", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T11:55:17.584369", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T11:55:17.584369", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-22T11:55:19.381875", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-22T11:55:19.384091", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-22T12:27:04.739978", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-22T12:27:04.739978", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-26T04:10:13.629226", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-26T04:10:13.641272", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-27T19:23:12.453067", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-27T19:23:12.454258", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-29T23:35:55.509612", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-29T23:35:55.510783", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-29T23:57:24.518942", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-29T23:57:24.518942", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-29T23:57:27.821035", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-29T23:57:27.822036", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-30T23:21:09.161026", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-30T23:21:09.176336", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-30T23:26:47.194488", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-30T23:26:47.194488", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-30T23:26:52.033490", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-30T23:26:52.034491", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-30T23:27:12.038682", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-30T23:27:12.039241", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-30T23:27:15.184421", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-30T23:27:15.185421", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-30T23:27:25.235806", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-30T23:27:25.235806", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-30T23:27:29.675068", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-30T23:27:29.676068", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-30T23:28:09.711115", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-07-30T23:28:09.711115", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-07-30T23:28:19.281989", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-30T23:28:19.283001", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-07-31T17:42:37.377862", "event": "API Started", "details": {}}
+{"timestamp": "2026-07-31T17:42:37.396889", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-01T03:24:32.977807", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-01T03:24:32.993432", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-01T19:07:51.725492", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-01T19:07:51.759207", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-01T20:12:07.369427", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-01T20:12:07.387760", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-02T09:52:42.843289", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-02T09:52:42.865484", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-02T18:14:41.825073", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-02T18:14:41.826074", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-03T14:27:53.521236", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-03T14:27:53.536541", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-03T14:36:17.586422", "client_ip": "127.0.0.1", "endpoint": "/batch_predict", "dataset": "cleaned_dataset.csv", "model": "Random Forest", "status": "FAILED", "error": "Dataset 'cleaned_dataset.csv' not found."}
+{"timestamp": "2026-08-03T14:36:27.349311", "client_ip": "127.0.0.1", "endpoint": "/predict", "dataset": "iris.csv", "model": "Random Forest", "status": "FAILED", "error": "Dataset 'iris.csv' not found."}
+{"timestamp": "2026-08-03T18:09:52.879443", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-03T18:09:52.879443", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-03T19:43:09.403178", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-03T19:43:09.403178", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-11T04:41:04.911670", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-11T04:41:04.932283", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-11T22:57:01.118498", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-11T22:57:01.134581", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-11T23:39:25.422379", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-08-11T23:39:25.422824", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-08-11T23:39:29.845493", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-11T23:39:29.845493", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-11T23:39:44.915045", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-08-11T23:39:44.915045", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-08-11T23:39:51.252918", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-11T23:39:51.253921", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-11T23:40:01.038582", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-08-11T23:40:01.038582", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-08-11T23:40:09.398089", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-11T23:40:09.398990", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-11T23:40:39.403180", "event": "Registry Watcher Stopped", "details": {}}
+{"timestamp": "2026-08-11T23:40:39.403180", "event": "API Shutdown", "details": {}}
+{"timestamp": "2026-08-11T23:40:42.709703", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-11T23:40:42.709703", "event": "Registry Watcher Started", "details": {}}
+{"timestamp": "2026-08-14T19:44:25.136010", "event": "API Started", "details": {}}
+{"timestamp": "2026-08-14T19:44:25.144267", "event": "Registry Watcher Started", "details": {}}

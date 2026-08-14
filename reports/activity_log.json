@@ -1,0 +1,129 @@
+{
+    "cleaning": [
+        "\ud83d\uddd1\ufe0f Removed 0 duplicate rows.",
+        "\ud83e\ude79 Handled missing values using **mean** for 18 column(s).",
+        "\ud83d\udd21 Encoded 13 categorical column(s).",
+        "\u274c Removed 12 column(s): job_id, title, location, company_profile, description, benefits, telecommuting, has_company_logo, has_questions, required_education, employment_type, function"
+    ],
+    "visualizations": [
+        {
+            "type": "Histogram",
+            "column": "department",
+            "bins": 30
+        },
+        {
+            "type": "Correlation Heatmap"
+        }
+    ],
+    "models": [],
+    "model_training": [
+        {
+            "timestamp": "2026-06-27T17:08:41.819889",
+            "stage": "demo-train",
+            "target": "fraudulent",
+            "chosen_model": "Random Forest",
+            "train_samples": 14304,
+            "test_samples": 3576,
+            "metrics": {
+                "accuracy": 0.993498322147651,
+                "f1_weighted": 0.9933011281455589,
+                "f1_macro": 0.9626101387596946,
+                "recall_weighted": 0.993498322147651,
+                "precision_weighted": 0.9934880484068078,
+                "roc_auc": 0.9948400850979646
+            }
+        },
+        {
+            "timestamp": "2026-06-27T17:08:53.352054",
+            "stage": "demo-train",
+            "target": "fraudulent",
+            "chosen_model": "Decision Tree",
+            "train_samples": 14304,
+            "test_samples": 3576,
+            "metrics": {
+                "accuracy": 0.9937080536912751,
+                "f1_weighted": 0.9935245630627266,
+                "f1_macro": 0.9638954138178569,
+                "recall_weighted": 0.9937080536912751,
+                "precision_weighted": 0.9936971580048077,
+                "roc_auc": 0.9974307237917555
+            }
+        },
+        {
+            "timestamp": "2026-06-27T17:09:08.160970",
+            "stage": "demo-train",
+            "target": "fraudulent",
+            "chosen_model": "Random Forest",
+            "train_samples": 14304,
+            "test_samples": 3576,
+            "metrics": {
+                "accuracy": 0.993498322147651,
+                "f1_weighted": 0.9933011281455589,
+                "f1_macro": 0.9626101387596946,
+                "recall_weighted": 0.993498322147651,
+                "precision_weighted": 0.9934880484068078,
+                "roc_auc": 0.9948400850979646
+            }
+        },
+        {
+            "timestamp": "2026-06-27T17:09:12.488795",
+            "stage": "demo-test",
+            "target": "fraudulent",
+            "chosen_model": "Random Forest",
+            "metrics": {
+                "accuracy": 0.9748322147651006,
+                "f1_weighted": 0.971986869612484,
+                "f1_macro": 0.8327374022950275,
+                "recall_weighted": 0.9748322147651006,
+                "precision_weighted": 0.9731773299760044,
+                "roc_auc": 0.9223593938704202
+            }
+        },
+        {
+            "timestamp": "2026-06-27T17:10:25.655100",
+            "stage": "demo-train",
+            "target": "fraudulent",
+            "chosen_model": "Random Forest",
+            "train_samples": 14304,
+            "test_samples": 3576,
+            "metrics": {
+                "accuracy": 0.993498322147651,
+                "f1_weighted": 0.9933011281455589,
+                "f1_macro": 0.9626101387596946,
+                "recall_weighted": 0.993498322147651,
+                "precision_weighted": 0.9934880484068078,
+                "roc_auc": 0.9948400850979646
+            }
+        },
+        {
+            "timestamp": "2026-06-27T17:10:27.815517",
+            "stage": "demo-test",
+            "target": "fraudulent",
+            "chosen_model": "Random Forest",
+            "metrics": {
+                "accuracy": 0.9748322147651006,
+                "f1_weighted": 0.971986869612484,
+                "f1_macro": 0.8327374022950275,
+                "recall_weighted": 0.9748322147651006,
+                "precision_weighted": 0.9731773299760044,
+                "roc_auc": 0.9223593938704202
+            }
+        },
+        {
+            "timestamp": "2026-06-27T17:10:35.388915",
+            "stage": "final",
+            "target": "fraudulent",
+            "chosen_model": "Random Forest",
+            "model_path": "E:\\Projects\\DataForge\\artifacts\\models\\Random_Forest_20260627_171035.joblib",
+            "metrics": {
+                "accuracy": 0.9934563758389262,
+                "f1_weighted": 0.9932552910738759,
+                "f1_macro": 0.9623303693021501,
+                "recall_weighted": 0.9934563758389262,
+                "precision_weighted": 0.9934481523711676,
+                "roc_auc": 0.9948121449229014
+            }
+        }
+    ],
+    "exports": []
+}

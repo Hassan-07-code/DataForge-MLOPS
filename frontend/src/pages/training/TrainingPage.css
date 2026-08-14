@@ -1,0 +1,95 @@
+.training-page {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.training-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.training-config-card, .training-result-card {
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.training-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.training-progress-box {
+  padding: 60px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.spinner-large {
+  width: 44px;
+  height: 44px;
+  border: 4px solid rgba(255, 255, 255, 0.1);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.results-view {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.success-banner {
+  padding: 20px;
+  background: rgba(16, 185, 129, 0.1);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  border-radius: var(--radius-sm);
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
+.metric-box {
+  padding: 14px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-sm);
+  display: flex;
+  flex-direction: column;
+}
+
+.metric-name {
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+.metric-val {
+  font-size: 20px;
+  color: var(--accent-cyan);
+}
+
+.mlflow-badge-bar {
+  display: flex;
+  gap: 10px;
+}
+
+.empty-training-placeholder {
+  padding: 60px;
+  text-align: center;
+  color: var(--text-muted);
+}
+
+.mt-20 {
+  margin-top: 20px;
+}

@@ -1,0 +1,209 @@
+2026-06-27 16:51:57,143 | INFO | Removed 0 duplicate rows.
+2026-06-27 16:51:57,144 | INFO | Handling missing values | Strategy=mean | Columns=18
+2026-06-27 16:54:46,800 | INFO | Removed 0 duplicate rows.
+2026-06-27 16:54:46,800 | INFO | Handling missing values | Strategy=mean | Columns=18
+2026-06-27 16:54:46,806 | INFO | Encoding categorical columns | Count=13
+2026-06-27 16:54:47,324 | INFO | Removed 11 columns.
+2026-06-27 16:55:45,521 | INFO | Generating Histogram | Column=title
+2026-06-27 16:55:54,688 | INFO | Generating Line Chart | X=title, Y=title
+2026-06-27 16:55:58,008 | INFO | Generating Line Chart | X=title, Y=required_experience
+2026-06-27 16:56:12,236 | INFO | Demo training started | Model=Random Forest | Task=classification
+2026-06-27 16:56:13,328 | INFO | Demo training completed | Model=Random Forest | Train Samples=14304 | Test Samples=3576
+2026-06-27 17:07:57,440 | INFO | Removed 0 duplicate rows.
+2026-06-27 17:07:57,440 | INFO | Handling missing values | Strategy=mean | Columns=18
+2026-06-27 17:07:57,446 | INFO | Encoding categorical columns | Count=13
+2026-06-27 17:07:57,850 | INFO | Removed 12 columns.
+2026-06-27 17:08:06,052 | INFO | Generating Histogram | Column=department
+2026-06-27 17:08:14,023 | INFO | Generating Correlation Heatmap
+2026-06-27 17:08:40,880 | INFO | Demo training started | Model=Random Forest | Task=classification
+2026-06-27 17:08:41,814 | INFO | Demo training completed | Model=Random Forest | Train Samples=14304 | Test Samples=3576
+2026-06-27 17:08:53,232 | INFO | Demo training started | Model=Decision Tree | Task=classification
+2026-06-27 17:08:53,346 | INFO | Demo training completed | Model=Decision Tree | Train Samples=14304 | Test Samples=3576
+2026-06-27 17:09:07,196 | INFO | Demo training started | Model=Random Forest | Task=classification
+2026-06-27 17:09:08,152 | INFO | Demo training completed | Model=Random Forest | Train Samples=14304 | Test Samples=3576
+2026-06-27 17:10:24,749 | INFO | Demo training started | Model=Random Forest | Task=classification
+2026-06-27 17:10:25,647 | INFO | Demo training completed | Model=Random Forest | Train Samples=14304 | Test Samples=3576
+2026-06-27 17:10:43,575 | INFO | Creating full DataForge report...
+2026-06-27 17:10:43,625 | INFO | Cleaned dataset saved.
+2026-06-27 17:10:43,626 | INFO | Activity log saved.
+2026-06-27 17:10:43,630 | INFO | Generating PDF report...
+2026-06-27 17:10:43,686 | INFO | PDF report generated: E:\Projects\DataForge\reports\report.pdf
+2026-06-27 17:10:43,686 | INFO | Creating ZIP package...
+2026-06-27 17:10:43,699 | INFO | Report exported successfully: E:\Projects\DataForge\reports\dataforge_report.zip
+2026-06-27 17:25:28,077 | INFO | Generating Histogram | Column=department
+2026-07-08 10:39:36,622 | INFO | Removed 0 duplicate rows.
+2026-07-08 10:39:36,622 | INFO | Handling missing values | Strategy=mean | Columns=18
+2026-07-08 10:39:36,648 | INFO | Encoding categorical columns | Count=13
+2026-07-08 10:39:36,975 | INFO | Removed 11 columns.
+2026-07-08 10:39:46,160 | INFO | Generating Histogram | Column=title
+2026-07-08 10:39:56,224 | INFO | Generating Bar Chart | X=title, Y=title
+2026-07-08 10:40:03,674 | INFO | Generating Bar Chart | X=title, Y=fraudulent
+2026-07-22 02:24:44,805 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:24:44,824 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:24:44,825 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:24:44,825 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:24:44,825 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:24:44,825 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:29:59,647 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:29:59,647 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:29:59,648 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:29:59,648 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:29:59,648 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:29:59,648 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:36:48,107 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:36:48,108 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:36:48,108 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:36:48,108 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:36:48,108 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:36:48,108 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:36:48,378 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:36:48,378 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:38:04,914 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:38:04,914 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:38:04,914 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:38:04,914 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:38:04,914 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:38:04,914 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:38:05,178 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:38:05,178 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:38:30,306 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:38:30,307 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:38:30,307 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:38:30,307 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:38:30,307 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:38:30,307 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:38:30,570 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:38:30,570 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:39:19,051 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:39:19,052 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:39:19,052 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:39:19,052 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:39:19,052 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:39:19,052 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:39:19,320 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:39:19,321 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:39:40,740 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:39:40,740 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:39:40,741 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:39:40,741 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:39:40,741 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:39:40,741 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:39:40,995 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:39:40,995 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:46:34,549 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:46:34,550 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:46:34,550 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:46:34,550 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:46:34,550 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:46:34,550 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:46:34,816 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:46:34,817 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:47:10,196 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:47:10,197 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:47:10,197 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:47:10,197 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:47:10,197 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:47:10,197 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:47:10,460 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:47:10,461 | INFO | Will assume non-transactional DDL.
+2026-07-22 02:47:42,678 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 02:47:42,678 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 02:47:42,679 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 02:47:42,679 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 02:47:42,679 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 02:47:42,679 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 02:47:42,945 | INFO | Context impl SQLiteImpl.
+2026-07-22 02:47:42,946 | INFO | Will assume non-transactional DDL.
+2026-07-22 18:11:16,064 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 18:11:16,065 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 18:11:16,065 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 18:11:16,065 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 18:11:16,065 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 18:11:16,065 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 18:11:16,603 | INFO | Context impl SQLiteImpl.
+2026-07-22 18:11:16,603 | INFO | Will assume non-transactional DDL.
+2026-07-22 18:27:03,328 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 18:27:03,329 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 18:27:03,329 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 18:27:03,329 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 18:27:03,329 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 18:27:03,329 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 18:27:03,583 | INFO | Context impl SQLiteImpl.
+2026-07-22 18:27:03,583 | INFO | Will assume non-transactional DDL.
+2026-07-22 18:30:40,358 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 18:30:40,358 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 18:30:40,358 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 18:30:40,358 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 18:30:40,358 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 18:30:40,358 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 18:30:40,610 | INFO | Context impl SQLiteImpl.
+2026-07-22 18:30:40,610 | INFO | Will assume non-transactional DDL.
+2026-07-22 23:15:42,332 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 23:15:42,350 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 23:15:42,350 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 23:15:42,350 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 23:15:42,350 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 23:15:42,350 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 23:15:42,829 | INFO | Context impl SQLiteImpl.
+2026-07-22 23:15:42,830 | INFO | Will assume non-transactional DDL.
+2026-07-22 23:18:34,071 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 23:18:34,071 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 23:18:34,071 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 23:18:34,071 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 23:18:34,071 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 23:18:34,072 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 23:18:34,456 | INFO | Context impl SQLiteImpl.
+2026-07-22 23:18:34,456 | INFO | Will assume non-transactional DDL.
+2026-07-22 23:24:54,916 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-22 23:24:54,934 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-22 23:24:54,934 | INFO | setup plugin alembic.autogenerate.types
+2026-07-22 23:24:54,934 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-22 23:24:54,934 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-22 23:24:54,934 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-22 23:24:55,591 | INFO | Context impl SQLiteImpl.
+2026-07-22 23:24:55,592 | INFO | Will assume non-transactional DDL.
+2026-07-25 21:09:34,732 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-25 21:09:34,732 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-25 21:09:34,732 | INFO | setup plugin alembic.autogenerate.types
+2026-07-25 21:09:34,732 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-25 21:09:34,732 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-25 21:09:34,732 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-25 21:09:35,283 | INFO | Context impl SQLiteImpl.
+2026-07-25 21:09:35,283 | INFO | Will assume non-transactional DDL.
+2026-07-27 12:26:17,376 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-27 12:26:17,376 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-27 12:26:17,376 | INFO | setup plugin alembic.autogenerate.types
+2026-07-27 12:26:17,376 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-27 12:26:17,376 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-27 12:26:17,376 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-27 12:26:17,942 | INFO | Context impl SQLiteImpl.
+2026-07-27 12:26:17,942 | INFO | Will assume non-transactional DDL.
+2026-07-27 12:30:51,054 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-27 12:30:51,054 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-27 12:30:51,054 | INFO | setup plugin alembic.autogenerate.types
+2026-07-27 12:30:51,054 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-27 12:30:51,054 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-27 12:30:51,054 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-27 12:30:52,014 | INFO | Context impl SQLiteImpl.
+2026-07-27 12:30:52,014 | INFO | Will assume non-transactional DDL.
+2026-07-27 12:41:23,001 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-27 12:41:23,001 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-27 12:41:23,001 | INFO | setup plugin alembic.autogenerate.types
+2026-07-27 12:41:23,001 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-27 12:41:23,001 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-27 12:41:23,001 | INFO | setup plugin alembic.autogenerate.comments
+2026-07-27 12:43:49,826 | INFO | setup plugin alembic.autogenerate.schemas
+2026-07-27 12:43:49,826 | INFO | setup plugin alembic.autogenerate.tables
+2026-07-27 12:43:49,826 | INFO | setup plugin alembic.autogenerate.types
+2026-07-27 12:43:49,826 | INFO | setup plugin alembic.autogenerate.constraints
+2026-07-27 12:43:49,826 | INFO | setup plugin alembic.autogenerate.defaults
+2026-07-27 12:43:49,826 | INFO | setup plugin alembic.autogenerate.comments
+2026-08-11 01:04:10,289 | INFO | setup plugin alembic.autogenerate.schemas
+2026-08-11 01:04:10,299 | INFO | setup plugin alembic.autogenerate.tables
+2026-08-11 01:04:10,299 | INFO | setup plugin alembic.autogenerate.types
+2026-08-11 01:04:10,299 | INFO | setup plugin alembic.autogenerate.constraints
+2026-08-11 01:04:10,299 | INFO | setup plugin alembic.autogenerate.defaults
+2026-08-11 01:04:10,300 | INFO | setup plugin alembic.autogenerate.comments
+2026-08-11 01:04:10,935 | INFO | Context impl SQLiteImpl.
+2026-08-11 01:04:10,936 | INFO | Will assume non-transactional DDL.
+2026-08-11 03:18:15,280 | INFO | generated new fontManager

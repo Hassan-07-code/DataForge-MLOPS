@@ -1,0 +1,56 @@
+.models-page {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.action-toast {
+  padding: 14px 20px;
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid var(--accent-green);
+  color: var(--accent-green);
+  border-radius: var(--radius-sm);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+}
+
+.action-toast button {
+  background: none;
+  border: none;
+  color: var(--accent-green);
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.registry-table-card {
+  padding: 24px;
+}
+
+.registry-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.registry-table th, .registry-table td {
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.registry-table th {
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-muted);
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.row-prod {
+  background: rgba(16, 185, 129, 0.04);
+}
+
+.action-btns {
+  display: flex;
+  gap: 8px;
+}

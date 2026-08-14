@@ -1,0 +1,15 @@
+{
+    "dataset": "iris",
+    "model": "Random Forest",
+    "version": "v4",
+    "stage": "Archived",
+    "created_at": "2026-07-22T23:15:44.962246",
+    "metrics": {
+        "accuracy": 1.0,
+        "f1_weighted": 1.0,
+        "f1_macro": 1.0,
+        "recall_weighted": 1.0,
+        "precision_weighted": 1.0,
+        "roc_auc_ovr_macro": 1.0
+    }
+}

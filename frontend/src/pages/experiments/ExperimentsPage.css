@@ -1,0 +1,68 @@
+.experiments-page {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.filter-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.experiments-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.exp-card {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.exp-header h3 {
+  font-size: 20px;
+  margin-top: 6px;
+}
+
+.exp-time {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.exp-metrics-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.exp-metric-pill {
+  padding: 10px 14px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-sm);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.exp-metric-pill span {
+  font-size: 11px;
+  color: var(--text-muted);
+  text-transform: capitalize;
+}
+
+.exp-metric-pill strong {
+  font-size: 14px;
+  color: var(--accent-cyan);
+}

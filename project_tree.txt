@@ -1,0 +1,1153 @@
+Folder PATH listing for volume Uni work ????
+Volume serial number is C8AD-78F4
+G:.
+|   app.py
+|   create.py
+|   mlflow.db
+|   package-lock.json
+|   package.json
+|   project_tree.txt
+|   requirements.txt
+|   
++---artifacts
+|   +---logs
+|   |       predictions.jsonl
+|   |       
+|   +---models
+|   |   |   Random_Forest_20260627_171035.joblib
+|   |   |   
+|   |   +---backend_test
+|   |   |   \---Random Forest
+|   |   |       +---v1
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v10
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v11
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v12
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v13
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v14
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v15
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v16
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v2
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v3
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v4
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v5
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v6
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v7
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       +---v8
+|   |   |       |       metadata.json
+|   |   |       |       model.joblib
+|   |   |       |       
+|   |   |       \---v9
+|   |   |               metadata.json
+|   |   |               model.joblib
+|   |   |               
+|   |   \---iris
+|   |       \---Random Forest
+|   |           +---v1
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v10
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v11
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v2
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v3
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v4
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v5
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v6
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v7
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           +---v8
+|   |           |       metadata.json
+|   |           |       model.joblib
+|   |           |       
+|   |           \---v9
+|   |                   metadata.json
+|   |                   model.joblib
+|   |                   
+|   +---plots
+|   +---registry
+|   |       registry.json
+|   |       
+|   \---reports
++---assets
++---backend
+|   |   __init__.py
+|   |   
+|   +---api
+|   |   |   cache.py
+|   |   |   dataset.py
+|   |   |   json_error.py
+|   |   |   loader.py
+|   |   |   middleware.py
+|   |   |   prediction_logger.py
+|   |   |   routes.py
+|   |   |   schemas.py
+|   |   |   server.py
+|   |   |   watcher.py
+|   |   |   __init__.py
+|   |   |   
+|   |   +---api_client
+|   |   |   |   client.py
+|   |   |   |   exceptions.py
+|   |   |   |   health.py
+|   |   |   |   predictor.py
+|   |   |   |   registry.py
+|   |   |   |   __init__.py
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           client.cpython-312.pyc
+|   |   |           exceptions.cpython-312.pyc
+|   |   |           health.cpython-312.pyc
+|   |   |           predictor.cpython-312.pyc
+|   |   |           registry.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   +---logs
+|   |   |       predictions.log
+|   |   |       
+|   |   \---__pycache__
+|   |           cache.cpython-312.pyc
+|   |           dataset.cpython-312.pyc
+|   |           json_error.cpython-312.pyc
+|   |           loader.cpython-312.pyc
+|   |           prediction_logger.cpython-312.pyc
+|   |           routes.cpython-312.pyc
+|   |           schemas.cpython-312.pyc
+|   |           server.cpython-312.pyc
+|   |           watcher.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---config
+|   |   |   paths.py
+|   |   |   settings.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           paths.cpython-312.pyc
+|   |           settings.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---evaluation
+|   |       __init__.py
+|   |       
+|   +---models
+|   |       __init__.py
+|   |       
+|   +---pipelines
+|   |   |   pipeline_builder.py
+|   |   |   preprocessing.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           pipeline_builder.cpython-312.pyc
+|   |           preprocessing.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---registry
+|   |   |   registry_manager.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           registry_manager.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---reports
+|   |       __init__.py
+|   |       
+|   +---schemas
+|   |   |   dataset_schema.py
+|   |   |   
+|   |   \---__pycache__
+|   |           dataset_schema.cpython-312.pyc
+|   |           
+|   +---services
+|   |   |   dataset_service.py
+|   |   |   data_cleaning.py
+|   |   |   model_training.py
+|   |   |   report_export.py
+|   |   |   visualization.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           dataset_service.cpython-312.pyc
+|   |           data_cleaning.cpython-312.pyc
+|   |           model_training.cpython-312.pyc
+|   |           report_export.cpython-312.pyc
+|   |           visualization.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---tracking
+|   |   |   artifact_manager.py
+|   |   |   experiment_manager.py
+|   |   |   mlflow_logger.py
+|   |   |   performance_profiler.py
+|   |   |   system_info.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           artifact_manager.cpython-312.pyc
+|   |           experiment_manager.cpython-312.pyc
+|   |           mlflow_logger.cpython-312.pyc
+|   |           performance_profiler.cpython-312.pyc
+|   |           system_info.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---utils
+|   |   |   logger.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           logger.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---visualization
+|   |       __init__.py
+|   |       
+|   \---__pycache__
+|           __init__.cpython-312.pyc
+|           
++---frontend
+|   |   .env
+|   |   .env.example
+|   |   .gitignore
+|   |   .oxlintrc.json
+|   |   index.html
+|   |   package-lock.json
+|   |   package.json
+|   |   README.md
+|   |   vite.config.js
+|   |   
+|   +---dist
+|   |   |   favicon.svg
+|   |   |   icons.svg
+|   |   |   index.html
+|   |   |   
+|   |   \---assets
+|   |           index-BphC16fm.css
+|   |           index-u0JbQRq7.js
+|   |           
+|   +---node_modules
+|   |   |   .package-lock.json
+|   |   |   
+|   |   +---.bin
+|   |   |       nanoid
+|   |   |       nanoid.cmd
+|   |   |       nanoid.ps1
+|   |   |       oxlint
+|   |   |       oxlint.cmd
+|   |   |       oxlint.ps1
+|   |   |       rolldown
+|   |   |       rolldown.cmd
+|   |   |       rolldown.ps1
+|   |   |       vite
+|   |   |       vite.cmd
+|   |   |       vite.ps1
+|   |   |       
+|   |   +---.vite
+|   |   |   \---deps
+|   |   |           package.json
+|   |   |           react-dom.js
+|   |   |           react-dom.js.map
+|   |   |           react-dom_client.js
+|   |   |           react-dom_client.js.map
+|   |   |           react-router-dom.js
+|   |   |           react-router-dom.js.map
+|   |   |           react.js
+|   |   |           react.js.map
+|   |   |           react_jsx-dev-runtime.js
+|   |   |           react_jsx-dev-runtime.js.map
+|   |   |           react_jsx-runtime.js
+|   |   |           react_jsx-runtime.js.map
+|   |   |           rolldown-runtime-FDOR9p9I.js
+|   |   |           _metadata.json
+|   |   |           
+|   |   +---.vite-temp
+|   |   +---@oxc-project
+|   |   |   \---types
+|   |   |           LICENSE
+|   |   |           package.json
+|   |   |           README.md
+|   |   |           types.d.ts
+|   |   |           
+|   |   +---@oxlint
+|   |   |   \---binding-win32-x64-msvc
+|   |   |           oxlint.win32-x64-msvc.node
+|   |   |           package.json
+|   |   |           README.md
+|   |   |           
+|   |   +---@rolldown
+|   |   |   +---binding-win32-x64-msvc
+|   |   |   |       package.json
+|   |   |   |       README.md
+|   |   |   |       rolldown-binding.win32-x64-msvc.node
+|   |   |   |       
+|   |   |   \---pluginutils
+|   |   |       |   LICENSE
+|   |   |       |   package.json
+|   |   |       |   README.md
+|   |   |       |   
+|   |   |       \---dist
+|   |   |           |   filter-B_mD-HGz.mjs
+|   |   |           |   index.d.mts
+|   |   |           |   index.mjs
+|   |   |           |   
+|   |   |           \---filter
+|   |   |                   index.d.mts
+|   |   |                   index.mjs
+|   |   |                   
+|   |   +---@types
+|   |   |   +---react
+|   |   |   |   |   canary.d.ts
+|   |   |   |   |   compiler-runtime.d.ts
+|   |   |   |   |   experimental.d.ts
+|   |   |   |   |   global.d.ts
+|   |   |   |   |   index.d.ts
+|   |   |   |   |   jsx-dev-runtime.d.ts
+|   |   |   |   |   jsx-runtime.d.ts
+|   |   |   |   |   LICENSE
+|   |   |   |   |   package.json
+|   |   |   |   |   README.md
+|   |   |   |   |   
+|   |   |   |   \---ts5.0
+|   |   |   |           canary.d.ts
+|   |   |   |           experimental.d.ts
+|   |   |   |           global.d.ts
+|   |   |   |           index.d.ts
+|   |   |   |           jsx-dev-runtime.d.ts
+|   |   |   |           jsx-runtime.d.ts
+|   |   |   |           
+|   |   |   \---react-dom
+|   |   |       |   canary.d.ts
+|   |   |       |   client.d.ts
+|   |   |       |   experimental.d.ts
+|   |   |       |   index.d.ts
+|   |   |       |   LICENSE
+|   |   |       |   package.json
+|   |   |       |   README.md
+|   |   |       |   server.browser.d.ts
+|   |   |       |   server.bun.d.ts
+|   |   |       |   server.d.ts
+|   |   |       |   server.edge.d.ts
+|   |   |       |   server.node.d.ts
+|   |   |       |   static.browser.d.ts
+|   |   |       |   static.d.ts
+|   |   |       |   static.edge.d.ts
+|   |   |       |   static.node.d.ts
+|   |   |       |   
+|   |   |       \---test-utils
+|   |   |               index.d.ts
+|   |   |               
+|   |   +---@vitejs
+|   |   |   \---plugin-react
+|   |   |       |   LICENSE
+|   |   |       |   package.json
+|   |   |       |   README.md
+|   |   |       |   
+|   |   |       +---dist
+|   |   |       |       index.d.ts
+|   |   |       |       index.js
+|   |   |       |       refresh-runtime.js
+|   |   |       |       
+|   |   |       \---types
+|   |   |               optionalTypes.d.ts
+|   |   |               preamble.d.ts
+|   |   |               
+|   |   +---cookie
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---dist
+|   |   |           index.d.ts
+|   |   |           index.js
+|   |   |           index.js.map
+|   |   |           
+|   |   +---csstype
+|   |   |       index.d.ts
+|   |   |       index.js.flow
+|   |   |       LICENSE
+|   |   |       package.json
+|   |   |       README.md
+|   |   |       
+|   |   +---detect-libc
+|   |   |   |   index.d.ts
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---lib
+|   |   |           detect-libc.js
+|   |   |           elf.js
+|   |   |           filesystem.js
+|   |   |           process.js
+|   |   |           
+|   |   +---fdir
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---dist
+|   |   |           index.cjs
+|   |   |           index.d.cts
+|   |   |           index.d.mts
+|   |   |           index.mjs
+|   |   |           
+|   |   +---lightningcss
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---node
+|   |   |           ast.d.ts
+|   |   |           ast.js.flow
+|   |   |           browserslistToTargets.js
+|   |   |           composeVisitors.js
+|   |   |           flags.js
+|   |   |           index.d.ts
+|   |   |           index.js
+|   |   |           index.js.flow
+|   |   |           index.mjs
+|   |   |           targets.d.ts
+|   |   |           targets.js.flow
+|   |   |           
+|   |   +---lightningcss-win32-x64-msvc
+|   |   |       LICENSE
+|   |   |       lightningcss.win32-x64-msvc.node
+|   |   |       package.json
+|   |   |       README.md
+|   |   |       
+|   |   +---nanoid
+|   |   |   |   index.browser.cjs
+|   |   |   |   index.browser.js
+|   |   |   |   index.cjs
+|   |   |   |   index.d.cts
+|   |   |   |   index.d.ts
+|   |   |   |   index.js
+|   |   |   |   LICENSE
+|   |   |   |   nanoid.js
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---async
+|   |   |   |       index.browser.cjs
+|   |   |   |       index.browser.js
+|   |   |   |       index.cjs
+|   |   |   |       index.d.ts
+|   |   |   |       index.js
+|   |   |   |       index.native.js
+|   |   |   |       package.json
+|   |   |   |       
+|   |   |   +---bin
+|   |   |   |       nanoid.cjs
+|   |   |   |       
+|   |   |   +---non-secure
+|   |   |   |       index.cjs
+|   |   |   |       index.d.ts
+|   |   |   |       index.js
+|   |   |   |       package.json
+|   |   |   |       
+|   |   |   \---url-alphabet
+|   |   |           index.cjs
+|   |   |           index.js
+|   |   |           package.json
+|   |   |           
+|   |   +---oxlint
+|   |   |   |   configuration_schema.json
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---bin
+|   |   |   |       oxlint
+|   |   |   |       
+|   |   |   \---dist
+|   |   |           bindings.js
+|   |   |           cli.js
+|   |   |           index.d.ts
+|   |   |           index.js
+|   |   |           js_config.js
+|   |   |           lint.js
+|   |   |           plugins-dev.d.ts
+|   |   |           plugins-dev.js
+|   |   |           plugins.js
+|   |   |           utils.js
+|   |   |           workspace.js
+|   |   |           workspace2.js
+|   |   |           
+|   |   +---picocolors
+|   |   |       LICENSE
+|   |   |       package.json
+|   |   |       picocolors.browser.js
+|   |   |       picocolors.d.ts
+|   |   |       picocolors.js
+|   |   |       README.md
+|   |   |       types.d.ts
+|   |   |       
+|   |   +---picomatch
+|   |   |   |   index.js
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   posix.js
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---lib
+|   |   |           constants.js
+|   |   |           parse.js
+|   |   |           picomatch.js
+|   |   |           scan.js
+|   |   |           utils.js
+|   |   |           
+|   |   +---postcss
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---lib
+|   |   |           at-rule.d.ts
+|   |   |           at-rule.js
+|   |   |           comment.d.ts
+|   |   |           comment.js
+|   |   |           container.d.ts
+|   |   |           container.js
+|   |   |           css-syntax-error.d.ts
+|   |   |           css-syntax-error.js
+|   |   |           declaration.d.ts
+|   |   |           declaration.js
+|   |   |           document.d.ts
+|   |   |           document.js
+|   |   |           fromJSON.d.ts
+|   |   |           fromJSON.js
+|   |   |           input.d.ts
+|   |   |           input.js
+|   |   |           lazy-result.d.ts
+|   |   |           lazy-result.js
+|   |   |           list.d.ts
+|   |   |           list.js
+|   |   |           map-generator.js
+|   |   |           no-work-result.d.ts
+|   |   |           no-work-result.js
+|   |   |           node.d.ts
+|   |   |           node.js
+|   |   |           parse.d.ts
+|   |   |           parse.js
+|   |   |           parser.js
+|   |   |           postcss.d.mts
+|   |   |           postcss.d.ts
+|   |   |           postcss.js
+|   |   |           postcss.mjs
+|   |   |           previous-map.d.ts
+|   |   |           previous-map.js
+|   |   |           processor.d.ts
+|   |   |           processor.js
+|   |   |           result.d.ts
+|   |   |           result.js
+|   |   |           root.d.ts
+|   |   |           root.js
+|   |   |           rule.d.ts
+|   |   |           rule.js
+|   |   |           stringifier.d.ts
+|   |   |           stringifier.js
+|   |   |           stringify.d.ts
+|   |   |           stringify.js
+|   |   |           symbols.js
+|   |   |           terminal-highlight.js
+|   |   |           tokenize.js
+|   |   |           warn-once.js
+|   |   |           warning.d.ts
+|   |   |           warning.js
+|   |   |           
+|   |   +---react
+|   |   |   |   compiler-runtime.js
+|   |   |   |   index.js
+|   |   |   |   jsx-dev-runtime.js
+|   |   |   |   jsx-dev-runtime.react-server.js
+|   |   |   |   jsx-runtime.js
+|   |   |   |   jsx-runtime.react-server.js
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   react.react-server.js
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---cjs
+|   |   |           react-compiler-runtime.development.js
+|   |   |           react-compiler-runtime.production.js
+|   |   |           react-compiler-runtime.profiling.js
+|   |   |           react-jsx-dev-runtime.development.js
+|   |   |           react-jsx-dev-runtime.production.js
+|   |   |           react-jsx-dev-runtime.profiling.js
+|   |   |           react-jsx-dev-runtime.react-server.development.js
+|   |   |           react-jsx-dev-runtime.react-server.production.js
+|   |   |           react-jsx-runtime.development.js
+|   |   |           react-jsx-runtime.production.js
+|   |   |           react-jsx-runtime.profiling.js
+|   |   |           react-jsx-runtime.react-server.development.js
+|   |   |           react-jsx-runtime.react-server.production.js
+|   |   |           react.development.js
+|   |   |           react.production.js
+|   |   |           react.react-server.development.js
+|   |   |           react.react-server.production.js
+|   |   |           
+|   |   +---react-dom
+|   |   |   |   client.js
+|   |   |   |   client.react-server.js
+|   |   |   |   index.js
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   profiling.js
+|   |   |   |   profiling.react-server.js
+|   |   |   |   react-dom.react-server.js
+|   |   |   |   README.md
+|   |   |   |   server.browser.js
+|   |   |   |   server.bun.js
+|   |   |   |   server.edge.js
+|   |   |   |   server.js
+|   |   |   |   server.node.js
+|   |   |   |   server.react-server.js
+|   |   |   |   static.browser.js
+|   |   |   |   static.edge.js
+|   |   |   |   static.js
+|   |   |   |   static.node.js
+|   |   |   |   static.react-server.js
+|   |   |   |   test-utils.js
+|   |   |   |   
+|   |   |   \---cjs
+|   |   |           react-dom-client.development.js
+|   |   |           react-dom-client.production.js
+|   |   |           react-dom-profiling.development.js
+|   |   |           react-dom-profiling.profiling.js
+|   |   |           react-dom-server-legacy.browser.development.js
+|   |   |           react-dom-server-legacy.browser.production.js
+|   |   |           react-dom-server-legacy.node.development.js
+|   |   |           react-dom-server-legacy.node.production.js
+|   |   |           react-dom-server.browser.development.js
+|   |   |           react-dom-server.browser.production.js
+|   |   |           react-dom-server.bun.development.js
+|   |   |           react-dom-server.bun.production.js
+|   |   |           react-dom-server.edge.development.js
+|   |   |           react-dom-server.edge.production.js
+|   |   |           react-dom-server.node.development.js
+|   |   |           react-dom-server.node.production.js
+|   |   |           react-dom-test-utils.development.js
+|   |   |           react-dom-test-utils.production.js
+|   |   |           react-dom.development.js
+|   |   |           react-dom.production.js
+|   |   |           react-dom.react-server.development.js
+|   |   |           react-dom.react-server.production.js
+|   |   |           
+|   |   +---react-router
+|   |   |   |   CHANGELOG.md
+|   |   |   |   LICENSE.md
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---dist
+|   |   |       +---development
+|   |   |       |   |   browser-Cv4JZyZ5.d.mts
+|   |   |       |   |   browser-o-qhcuhA.d.ts
+|   |   |       |   |   chunk-2JY4UAJA.js
+|   |   |       |   |   chunk-GNDLROV6.js
+|   |   |       |   |   chunk-JMJ3UQ3L.mjs
+|   |   |       |   |   chunk-SZQUWNVJ.js
+|   |   |       |   |   chunk-YNUBSHFH.mjs
+|   |   |       |   |   dom-export.d.mts
+|   |   |       |   |   dom-export.d.ts
+|   |   |       |   |   dom-export.js
+|   |   |       |   |   dom-export.mjs
+|   |   |       |   |   index-react-server-client-Cv5Q9lf0.d.ts
+|   |   |       |   |   index-react-server-client-P7VgYu6T.d.mts
+|   |   |       |   |   index-react-server-client.d.mts
+|   |   |       |   |   index-react-server-client.d.ts
+|   |   |       |   |   index-react-server-client.js
+|   |   |       |   |   index-react-server-client.mjs
+|   |   |       |   |   index-react-server.d.mts
+|   |   |       |   |   index-react-server.d.ts
+|   |   |       |   |   index-react-server.js
+|   |   |       |   |   index-react-server.mjs
+|   |   |       |   |   index.d.mts
+|   |   |       |   |   index.d.ts
+|   |   |       |   |   index.js
+|   |   |       |   |   index.mjs
+|   |   |       |   |   instrumentation-BlrVzjbg.d.ts
+|   |   |       |   |   register-BGQUMCK4.d.ts
+|   |   |       |   |   register-DTJJbt1o.d.mts
+|   |   |       |   |   router-5fbeEIMQ.d.mts
+|   |   |       |   |   
+|   |   |       |   \---lib
+|   |   |       |       \---types
+|   |   |       |               internal.d.mts
+|   |   |       |               internal.d.ts
+|   |   |       |               internal.js
+|   |   |       |               internal.mjs
+|   |   |       |               
+|   |   |       \---production
+|   |   |           |   browser-Cv4JZyZ5.d.mts
+|   |   |           |   browser-o-qhcuhA.d.ts
+|   |   |           |   chunk-2HFJAX7U.js
+|   |   |           |   chunk-BEXOWXJO.js
+|   |   |           |   chunk-E6GYEQUT.mjs
+|   |   |           |   chunk-TINMVEA2.mjs
+|   |   |           |   chunk-ZMYPVUNZ.js
+|   |   |           |   dom-export.d.mts
+|   |   |           |   dom-export.d.ts
+|   |   |           |   dom-export.js
+|   |   |           |   dom-export.mjs
+|   |   |           |   index-react-server-client-Cv5Q9lf0.d.ts
+|   |   |           |   index-react-server-client-P7VgYu6T.d.mts
+|   |   |           |   index-react-server-client.d.mts
+|   |   |           |   index-react-server-client.d.ts
+|   |   |           |   index-react-server-client.js
+|   |   |           |   index-react-server-client.mjs
+|   |   |           |   index-react-server.d.mts
+|   |   |           |   index-react-server.d.ts
+|   |   |           |   index-react-server.js
+|   |   |           |   index-react-server.mjs
+|   |   |           |   index.d.mts
+|   |   |           |   index.d.ts
+|   |   |           |   index.js
+|   |   |           |   index.mjs
+|   |   |           |   instrumentation-BlrVzjbg.d.ts
+|   |   |           |   register-BGQUMCK4.d.ts
+|   |   |           |   register-DTJJbt1o.d.mts
+|   |   |           |   router-5fbeEIMQ.d.mts
+|   |   |           |   
+|   |   |           \---lib
+|   |   |               \---types
+|   |   |                       internal.d.mts
+|   |   |                       internal.d.ts
+|   |   |                       internal.js
+|   |   |                       internal.mjs
+|   |   |                       
+|   |   +---react-router-dom
+|   |   |   |   LICENSE.md
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---dist
+|   |   |           index.d.mts
+|   |   |           index.d.ts
+|   |   |           index.js
+|   |   |           index.mjs
+|   |   |           
+|   |   +---rolldown
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   +---bin
+|   |   |   |       cli.mjs
+|   |   |   |       
+|   |   |   \---dist
+|   |   |       |   cli.d.mts
+|   |   |       |   cli.mjs
+|   |   |       |   config.d.mts
+|   |   |       |   config.mjs
+|   |   |       |   experimental-index.d.mts
+|   |   |       |   experimental-index.mjs
+|   |   |       |   experimental-runtime-types.d.ts
+|   |   |       |   filter-index.d.mts
+|   |   |       |   filter-index.mjs
+|   |   |       |   get-log-filter.d.mts
+|   |   |       |   get-log-filter.mjs
+|   |   |       |   index.d.mts
+|   |   |       |   index.mjs
+|   |   |       |   parallel-plugin-worker.d.mts
+|   |   |       |   parallel-plugin-worker.mjs
+|   |   |       |   parallel-plugin.d.mts
+|   |   |       |   parallel-plugin.mjs
+|   |   |       |   parse-ast-index.d.mts
+|   |   |       |   parse-ast-index.mjs
+|   |   |       |   plugins-index.d.mts
+|   |   |       |   plugins-index.mjs
+|   |   |       |   utils-index.d.mts
+|   |   |       |   utils-index.mjs
+|   |   |       |   
+|   |   |       \---shared
+|   |   |               binding-D26QphWG.d.mts
+|   |   |               binding-TuFFIE_J.mjs
+|   |   |               bindingify-input-options-XPJLJOD0.mjs
+|   |   |               constructors-BbWPse2X.d.mts
+|   |   |               constructors-D_3i7dpX.mjs
+|   |   |               define-config-BhJ90aEv.d.mts
+|   |   |               define-config-Demdg3_4.mjs
+|   |   |               dist-DKbukT1H.mjs
+|   |   |               error-BHRSI0R7.mjs
+|   |   |               get-log-filter-BpNVNJ5-.d.mts
+|   |   |               load-config-BL_FI6dc.mjs
+|   |   |               logging-BSNejiLS.d.mts
+|   |   |               logs-ZGEh6uhb.mjs
+|   |   |               misc-CoQm4NHO.mjs
+|   |   |               normalize-string-or-regex-dnh67V_w.mjs
+|   |   |               parse-D4dtlfWy.mjs
+|   |   |               prompt--dNycKSZ.mjs
+|   |   |               resolve-tsconfig-DxqIJB3x.mjs
+|   |   |               rolldown-build-CtPvmZgJ.mjs
+|   |   |               rolldown-ChpIlMRm.mjs
+|   |   |               transform-BPrUvqEZ.d.mts
+|   |   |               watch-B1b0gmVh.mjs
+|   |   |               
+|   |   +---scheduler
+|   |   |   |   index.js
+|   |   |   |   index.native.js
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   unstable_mock.js
+|   |   |   |   unstable_post_task.js
+|   |   |   |   
+|   |   |   \---cjs
+|   |   |           scheduler-unstable_mock.development.js
+|   |   |           scheduler-unstable_mock.production.js
+|   |   |           scheduler-unstable_post_task.development.js
+|   |   |           scheduler-unstable_post_task.production.js
+|   |   |           scheduler.development.js
+|   |   |           scheduler.native.development.js
+|   |   |           scheduler.native.production.js
+|   |   |           scheduler.production.js
+|   |   |           
+|   |   +---set-cookie-parser
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---lib
+|   |   |           set-cookie.js
+|   |   |           
+|   |   +---source-map-js
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   source-map.d.ts
+|   |   |   |   source-map.js
+|   |   |   |   
+|   |   |   \---lib
+|   |   |           array-set.js
+|   |   |           base64-vlq.js
+|   |   |           base64.js
+|   |   |           binary-search.js
+|   |   |           mapping-list.js
+|   |   |           quick-sort.js
+|   |   |           source-map-consumer.d.ts
+|   |   |           source-map-consumer.js
+|   |   |           source-map-generator.d.ts
+|   |   |           source-map-generator.js
+|   |   |           source-node.d.ts
+|   |   |           source-node.js
+|   |   |           util.js
+|   |   |           
+|   |   +---tinyglobby
+|   |   |   |   LICENSE
+|   |   |   |   package.json
+|   |   |   |   README.md
+|   |   |   |   
+|   |   |   \---dist
+|   |   |           index.cjs
+|   |   |           index.d.cts
+|   |   |           index.d.mts
+|   |   |           index.mjs
+|   |   |           
+|   |   \---vite
+|   |       |   client.d.ts
+|   |       |   LICENSE.md
+|   |       |   package.json
+|   |       |   README.md
+|   |       |   
+|   |       +---bin
+|   |       |       openChrome.js
+|   |       |       vite.js
+|   |       |       
+|   |       +---dist
+|   |       |   +---client
+|   |       |   |       client.mjs
+|   |       |   |       env.mjs
+|   |       |   |       
+|   |       |   \---node
+|   |       |       |   cli.js
+|   |       |       |   index.d.ts
+|   |       |       |   index.js
+|   |       |       |   internal.d.ts
+|   |       |       |   internal.js
+|   |       |       |   module-runner.d.ts
+|   |       |       |   module-runner.js
+|   |       |       |   
+|   |       |       \---chunks
+|   |       |               build.js
+|   |       |               dist.js
+|   |       |               lib.js
+|   |       |               moduleRunnerTransport.d.ts
+|   |       |               node.js
+|   |       |               postcss-import.js
+|   |       |               
+|   |       +---misc
+|   |       |       false.js
+|   |       |       true.js
+|   |       |       
+|   |       \---types
+|   |           |   customEvent.d.ts
+|   |           |   hmrPayload.d.ts
+|   |           |   hot.d.ts
+|   |           |   import-meta.d.ts
+|   |           |   importGlob.d.ts
+|   |           |   importMeta.d.ts
+|   |           |   metadata.d.ts
+|   |           |   
+|   |           \---internal
+|   |                   cssPreprocessorOptions.d.ts
+|   |                   esbuildOptions.d.ts
+|   |                   lightningcssOptions.d.ts
+|   |                   rollupTypeCompat.d.ts
+|   |                   terserOptions.d.ts
+|   |                   
+|   +---public
+|   |       favicon.svg
+|   |       icons.svg
+|   |       
+|   \---src
+|       |   App.css
+|       |   App.jsx
+|       |   index.css
+|       |   main.jsx
+|       |   
+|       +---app
+|       |       App.jsx
+|       |       
+|       +---assets
+|       |   |   hero.png
+|       |   |   react.svg
+|       |   |   vite.svg
+|       |   |   
+|       |   +---icons
+|       |   \---images
+|       +---components
+|       |   +---common
+|       |   |       ErrorMessage.jsx
+|       |   |       Loader.jsx
+|       |   |       Logo.jsx
+|       |   |       
+|       |   +---layout
+|       |   |       Footer.jsx
+|       |   |       Layout.css
+|       |   |       MainLayout.jsx
+|       |   |       Navbar.jsx
+|       |   |       Sidebar.jsx
+|       |   |       
+|       |   \---ui
+|       |           Button.jsx
+|       |           Card.jsx
+|       |           Modal.jsx
+|       |           
+|       +---config
+|       +---constants
+|       |       routes.js
+|       |       
+|       +---hooks
+|       |       useApi.js
+|       |       
+|       +---pages
+|       |   +---cleaning
+|       |   |       DataCleaningPage.css
+|       |   |       DataCleaningPage.jsx
+|       |   |       
+|       |   +---dashboard
+|       |   |       DashboardPage.css
+|       |   |       DashboardPage.jsx
+|       |   |       
+|       |   +---data
+|       |   |       DataPage.css
+|       |   |       DataPage.jsx
+|       |   |       
+|       |   +---experiments
+|       |   |       ExperimentsPage.css
+|       |   |       ExperimentsPage.jsx
+|       |   |       
+|       |   +---landing
+|       |   |       LandingPage.css
+|       |   |       LandingPage.jsx
+|       |   |       
+|       |   +---models
+|       |   |       ModelsPage.css
+|       |   |       ModelsPage.jsx
+|       |   |       
+|       |   +---not-found
+|       |   |       NotFoundPage.css
+|       |   |       NotFoundPage.jsx
+|       |   |       
+|       |   +---predictions
+|       |   |       PredictionsPage.css
+|       |   |       PredictionsPage.jsx
+|       |   |       
+|       |   +---reports
+|       |   |       ReportsPage.css
+|       |   |       ReportsPage.jsx
+|       |   |       
+|       |   +---settings
+|       |   |       SettingsPage.css
+|       |   |       SettingsPage.jsx
+|       |   |       
+|       |   +---training
+|       |   |       TrainingPage.css
+|       |   |       TrainingPage.jsx
+|       |   |       
+|       |   \---visualization
+|       |           VisualizationPage.css
+|       |           VisualizationPage.jsx
+|       |           
+|       +---routes
+|       |       AppRoutes.jsx
+|       |       
+|       +---services
+|       |       api.js
+|       |       dataService.js
+|       |       predictionService.js
+|       |       registryService.js
+|       |       systemService.js
+|       |       trainingService.js
+|       |       
+|       +---store
+|       |       appStore.js
+|       |       
+|       +---styles
+|       |       global.css
+|       |       variables.css
+|       |       
+|       \---utils
+|               formatters.js
+|               
++---logs
+|       dataforge.log
+|       
++---mlruns
+|   \---1
+|       \---3519acfdaea64b2c812693fa905fd985
+|           \---artifacts
+|               |   model.joblib
+|               |   
+|               \---pipeline
+|                       conda.yaml
+|                       input_example.json
+|                       MLmodel
+|                       model.pkl
+|                       python_env.yaml
+|                       requirements.txt
+|                       serving_input_example.json
+|                       
++---models
++---node_modules
+|   |   .package-lock.json
+|   |   
+|   \---papaparse
+|       |   .eslintrc.js
+|       |   bower.json
+|       |   CHANGELOG.md
+|       |   Gruntfile.js
+|       |   LICENSE
+|       |   package.json
+|       |   papaparse.js
+|       |   papaparse.min.js
+|       |   README.md
+|       |   
+|       +---.github
+|       |   \---workflows
+|       |           node.js.yml
+|       |           
+|       +---player
+|       |       player.css
+|       |       player.html
+|       |       player.js
+|       |       
+|       \---tests
+|               .eslintrc.js
+|               long-sample.csv
+|               node-tests.js
+|               sample-header.csv
+|               sample.csv
+|               test-cases.js
+|               test.js
+|               tests.html
+|               utf-8-bom-sample.csv
+|               verylong-sample.csv
+|               
++---reports
+|       activity_log.json
+|       cleaned_dataset.csv
+|       dataforge_report.zip
+|       report.pdf
+|       
++---tests
+|   |   testing.py
+|   |   test_mlflow.py
+|   |   test_registry.py
+|   |   test_registry_stage.py
+|   |   
+|   \---__pycache__
+|           testing.cpython-312.pyc
+|           test_mlflow.cpython-312.pyc
+|           test_registry.cpython-312.pyc
+|           test_registry_stage.cpython-312.pyc
+|           
+\---__pycache__
+        app.cpython-312.pyc
+        

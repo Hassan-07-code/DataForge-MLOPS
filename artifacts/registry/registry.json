@@ -1,0 +1,413 @@
+{
+    "backend_test": {
+        "Random Forest": {
+            "latest_version": "v17",
+            "production": "v16",
+            "staging": null,
+            "versions": {
+                "v1": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:03:19.515573",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v2": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:09:36.336821",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v3": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:11:23.508009",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v4": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:11:49.423106",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v5": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:12:26.963518",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v6": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:13:58.105583",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v7": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:16:07.860539",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v8": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:18:05.387476",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v9": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:36:50.517445",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v10": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:38:07.461936",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v11": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:38:32.805562",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v12": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:39:21.601295",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v13": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:39:43.199903",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v14": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:46:37.004251",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v15": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T02:47:12.811270",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v16": {
+                    "stage": "Production",
+                    "created_at": "2026-07-22T02:47:45.204512",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v17": {
+                    "stage": "Development",
+                    "created_at": "2026-08-11T01:04:12.634207",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                }
+            }
+        }
+    },
+    "iris": {
+        "Random Forest": {
+            "latest_version": "v11",
+            "production": "v11",
+            "staging": null,
+            "versions": {
+                "v1": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T18:11:18.633335",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v2": {
+                    "stage": "Development",
+                    "created_at": "2026-07-22T18:27:05.458988",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v3": {
+                    "stage": "Archived",
+                    "created_at": "2026-07-22T18:30:42.443963",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v4": {
+                    "stage": "Archived",
+                    "created_at": "2026-07-22T23:15:44.962246",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v5": {
+                    "stage": "Archived",
+                    "created_at": "2026-07-22T23:18:36.415386",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v6": {
+                    "stage": "Archived",
+                    "created_at": "2026-07-22T23:24:58.321438",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v7": {
+                    "stage": "Archived",
+                    "created_at": "2026-07-25T21:09:37.209520",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v8": {
+                    "stage": "Development",
+                    "created_at": "2026-07-27T12:26:19.894434",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v9": {
+                    "stage": "Development",
+                    "created_at": "2026-07-27T12:30:54.126032",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v10": {
+                    "stage": "Archived",
+                    "created_at": "2026-07-27T12:41:33.077077",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                },
+                "v11": {
+                    "stage": "Production",
+                    "created_at": "2026-07-27T12:43:59.965265",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc_ovr_macro": 1.0
+                    }
+                }
+            }
+        }
+    },
+    "dataset": {
+        "Random Forest": {
+            "latest_version": "v4",
+            "production": null,
+            "staging": null,
+            "versions": {
+                "v1": {
+                    "stage": "Development",
+                    "created_at": "2026-08-12T03:22:05.209911",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v2": {
+                    "stage": "Development",
+                    "created_at": "2026-08-12T03:22:23.855092",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v3": {
+                    "stage": "Development",
+                    "created_at": "2026-08-12T03:23:12.857163",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                },
+                "v4": {
+                    "stage": "Development",
+                    "created_at": "2026-08-12T03:23:32.340585",
+                    "metrics": {
+                        "accuracy": 1.0,
+                        "f1_weighted": 1.0,
+                        "f1_macro": 1.0,
+                        "recall_weighted": 1.0,
+                        "precision_weighted": 1.0,
+                        "roc_auc": 1.0
+                    }
+                }
+            }
+        }
+    }
+}
